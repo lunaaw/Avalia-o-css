@@ -1,0 +1,42 @@
+body{
+  background-color: aliceblue;
+}
+.Tabela{
+  
+  background-color: #861720;
+  height:150px;
+  width: 1355px;
+  border-radius: 20px;
+  color: aliceblue;
+}
+#nome{
+ font-size: 35px;
+ color: aliceblue;
+}
+.topicos{
+  font-size: 20px;
+  color: aliceblue;
+}
+#eu{
+margin-top: 10px;
+border-radius: 30px;
+
+}
+.imagem{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 400px;
+  height: 340px;
+  background-color: #861720;
+  display: inline-block;
+}
+.sobre-mim{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 400px;
+  height: 340px;
+  background-color: #861720;
+  display: inline-block;
+}
